@@ -38,6 +38,7 @@ Fromtend:
   - React 
   - Pure.css
   - Random Code pens
+  - prolly some scss dont know yet
 
 Backend:
   - Sweet sweet FIREBASE!!! 
