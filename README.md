@@ -15,10 +15,10 @@ It would also be cool if it was hosted on my raz pi as well and the user had the
   > funfact/rambling
 
 - Music Streaming Page
-  > Albums in grid
-  > Sort function ( newest, oldest, most popular, least popular, my ranking )
-  > Search bar
-  > Playback bar
+  - Albums in grid
+  - Sort function ( newest, oldest, most popular, least popular, my ranking )
+  - Search bar
+  - Playback bar
     * Start Stop
     * Skip forward & backward
     * Name & authors(if its not just me)
