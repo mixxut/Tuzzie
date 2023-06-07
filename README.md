@@ -7,12 +7,12 @@ I want to make a simple but elgent website that will be used to display personal
 It would also be cool if it was hosted on my raz pi as well and the user had the option to switch between firebase and me. IDK we'll figure it out. 
 
 - Home page
-  > Name
-  > Simple nav bar (links to: projects, music player, blog)
-  > contact info ( email and socials ) 
-  > photo of me, myself and i
-  > Most recent Project
-  > funfact/rambling
+  - Name
+  - Simple nav bar (links to: projects, music player, blog)
+  - contact info ( email and socials ) 
+  - photo of me, myself and i
+  - Most recent Project
+  - funfact/rambling
 
 - Music Streaming Page
   - Albums in grid
@@ -27,7 +27,7 @@ It would also be cool if it was hosted on my raz pi as well and the user had the
  
 Pitfalls i want to avoid:
   - big file size (duh)
-  - Long ass style.css, i want that shit to be as readable as possiable #hateCSS but love when things look nice
+  - Long ass style.css > i want that shit to be as readable as possiable #hateCSS but love when things look nice
 
 Wireframe:
   - Figma
@@ -39,5 +39,5 @@ Fromtend:
   - Random Code pens
 
 Backend:
-  - Sweet sweet FIREBASE!!! ( i mean how can the website not be fire when the base is? )
+  - Sweet sweet FIREBASE!!! > ( i mean how can the website not be fire when the base is? )
   - My raz pi
