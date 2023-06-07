@@ -27,7 +27,8 @@ It would also be cool if it was hosted on my raz pi as well and the user had the
  
 Pitfalls i want to avoid:
   - big file size (duh)
-  - Long ass style.css > i want that shit to be as readable as possiable #hateCSS but love when things look nice
+  - Long ass style.css 
+  > i want that shit to be as readable as possiable #hateCSS but love when things look nice
 
 Wireframe:
   - Figma
@@ -39,5 +40,6 @@ Fromtend:
   - Random Code pens
 
 Backend:
-  - Sweet sweet FIREBASE!!! > ( i mean how can the website not be fire when the base is? )
+  - Sweet sweet FIREBASE!!! 
+  > ( i mean how can the website not be fire when the base is? )
   - My raz pi
