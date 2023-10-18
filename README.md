@@ -1,4 +1,4 @@
-# Tuzzie-sWebsite
+# Tuzzie
 Its a website for me by me. 
 
 Goal:
